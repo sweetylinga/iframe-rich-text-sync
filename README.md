@@ -122,24 +122,11 @@ git clone https://github.com/sweetylinga/iframe-rich-text-sync.git
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of:
-
-* Home Page
-* Rich Text Formatting
-* Bidirectional Synchronization
-* Event Log
-
----
 
 ## 🔮 Future Improvements
 
 * Cursor position preservation
-* Shared Undo/Redo history
-* Multi-user collaborative editing
-* Additional formatting options
-* Rich text export/import
+
 
 ---
 
